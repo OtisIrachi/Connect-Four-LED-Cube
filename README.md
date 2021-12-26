@@ -1,9 +1,8 @@
 # Connect-four-3D
 Connect Four Game using Wemos D1 Mini
-4x4x4 LED Cube with encoder to select game pieces.
+4x4x4 LED Cube with encoder/PB to select game players and set moves.
 
-Source Code, Schematic, Project Box STL Files, and BOM provided.
-by RCI
+Source Code, Schematic, Project Box STL Files, and BOM provided by RCI
 
 Requires the following arduino library files:
 
