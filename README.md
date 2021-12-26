@@ -6,6 +6,7 @@ Source Code, Schematic, Project Box STL Files, and BOM provided.
 by RCI
 
 Requires the following arduino library files:
+
 Adafruit_NeoPixel.h
 
 Adafruit_GFX.h
