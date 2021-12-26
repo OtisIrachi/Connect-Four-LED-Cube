@@ -1,9 +1,0 @@
-Materials for ConnectFour2D Project
-
-
-1 - 8X8 64 LED Matrix WS2812 5050 RGB
-1 - Wemos D1 Mini Module (ESP8266)
-1 - 1A USB Li-Poly Battery Charger
-1 - SPST power switch
-1 - Rotary Encoder w/Switch with knob
-1 - 3D Printed Case
