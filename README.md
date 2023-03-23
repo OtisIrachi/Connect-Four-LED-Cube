@@ -1,4 +1,4 @@
-# Connect-four-3D
+# Connect four led cube
 Connect Four Game using Wemos D1 Mini
 4x4x4 LED Cube with encoder/PB to select game players and set moves.
 
